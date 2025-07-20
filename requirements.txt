@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics==8.2.103
+torch
+torchvision
+opencv-python
+pillow-heif==0.22.0
+supervision==0.24.0
+python-multipart
+IPython
